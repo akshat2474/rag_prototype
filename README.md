@@ -2,7 +2,7 @@
 
 ## Step 1: Clone Repository
 ```bash
-git clone https://github.com/GithubAnant/ARGO.git
+git clone https://github.com/akshat2474/rag_prototype/tree/main
 cd ARGO
 ```
 
