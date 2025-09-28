@@ -26,7 +26,7 @@ OPENROUTER_KEY=sk-or-v1-your-actual-key-here
 
 ## Step 4: Run the Application
 ```bash
-python 1.py
+python main.py
 ```
 
 **Note:** First run will take 8-10 minutes to complete as it creates the RAG file.
